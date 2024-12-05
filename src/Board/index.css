@@ -1,0 +1,10 @@
+.board{
+    display: flex;
+    flex-direction: column;
+    height: 35vh;
+    width: 35vh;   
+}
+
+.board-row {
+    display: flex; /* Align squares in a row horizontally */
+  }
